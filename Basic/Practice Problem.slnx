@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Basic/Even Number.csproj" />
+  <Project Path="Big , Small, &amp; Average/Big , Small, &amp; Average.csproj" />
+  <Project Path="Fibbonacci Series/Fibbonacci Series.csproj" />
+  <Project Path="String Reversed/String Reversed.csproj" />
+  <Project Path="Vowel Count/Vowel Count.csproj" />
+</Solution>
