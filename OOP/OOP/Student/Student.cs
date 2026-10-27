@@ -8,9 +8,9 @@ namespace Student
     {
         public string Name { get; set; }
         public string Id { get; }
-        public double Marks { get; private set; }
+        public int Marks { get; private set; }
 
-        public Student(string name, string id, double marks)
+        public Student(string name, string id, int marks)
         {
             Name = name;
             Id = id;
