@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BankAccount/BankAccount.csproj" />
+  <Project Path="Interface/Interface.csproj" Id="30456635-ed35-4ee5-b540-8b1c5b90933e" />
+  <Project Path="Shape/Shape.csproj" Id="bdf97f5a-5247-4690-8e10-899d3a90fc90" />
+  <Project Path="Student/StudentDemo.csproj" />
+</Solution>
