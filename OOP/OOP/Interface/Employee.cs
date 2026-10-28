@@ -8,12 +8,15 @@ namespace Interface
 {
     public class Employee
     {
+       
         public string Name { get; set; }
         public decimal BasicSalary {  get; private set; }
+        public string Department { get; set; }
 
-        public Employee(string name,decimal basicsalary) 
+        public Employee(string name,decimal basicsalary,string department) 
         { 
             Name = name;
+            Department = department;
 
             if (basicsalary <= 0)
                 throw new ArgumentException("Salary must be psoitive");
